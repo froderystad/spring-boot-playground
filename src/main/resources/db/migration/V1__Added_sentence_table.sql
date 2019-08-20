@@ -1,0 +1,4 @@
+CREATE TABLE sentences (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  sentence VARCHAR(1024) NOT NULL
+);
